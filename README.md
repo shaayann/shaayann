@@ -1,4 +1,4 @@
-👋 Hi, I’m @shaayann, an AI Engineer passionate about pushing boundaries in technology.
+👋 Hi, I’m @shhaayann, an AI Engineer passionate about pushing boundaries in technology.
 👀 I’m interested in machine learning, deep learning, natural language processing, computer vision, generative adversarial networks, and large language models.
 🌱 I’m currently honing my skills and exploring innovative solutions in AI through hands-on projects.
 💞️ I’m looking to collaborate on impactful AI and ML projects, from NLP and CV applications to GAN-based innovations.
